@@ -1,0 +1,15 @@
+// isEven()
+// returns True is number is even and False if it is not
+
+
+// factorial()
+// takes a single numeric argument and returns the factorial of that number
+// factorial is: 4! is 4 x 3 x 2 x 1
+// 6! is 6 x 5 x 4 x 3 x 2 x 1
+// 0! is 1
+
+
+// kebabToSnake()
+// takes a single kebab-cased string argument and returns the snake_case version
+// basically, replace '-' with '_'
+// may need to research string functions
